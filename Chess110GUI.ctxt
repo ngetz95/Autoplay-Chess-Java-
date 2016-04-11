@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=controller
+comment0.target=Chess110GUI(Chess110Controller)
+comment0.text=\ Constructs\ a\ new\ Chess110GUI\ object.\r\n
+comment1.params=
+comment1.target=javax.swing.JPanel\ makeControlPanel()
+comment2.params=
+comment2.target=javax.swing.JComponent\ makeDebugNodebugDropdown()
+comment2.text=\ Creates\ a\ panel\ with\ a\ toggle\ button\ that\ lets\ the\ user\ choose\r\n\ \ whether\ or\ not\ the\ program\ should\ print\ a\ log\ of\ the\ individual\r\n\ \ moves\ to\ the\ console.\r\n\ \ \ \ @return\ a\ panel\ containing\ the\ buttons\ for\ running\ the\ application\r\n
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ handlePrintMovesToggleButton()
+comment4.text=Toggles\ between\ printing\ and\ not\ printing\ moves\ to\ the\ console.\ *
+comment5.params=grid
+comment5.target=void\ setGrid(edu.kzoo.grid.Grid)
+comment6.params=
+comment6.target=void\ notifyUserWhiteWon()
+comment6.text=\ Notifies\ the\ user\ that\ White\ won.\r\n\ \ Alters\ the\ background\ color\ of\ the\ grid\ and\ prints\ a\ message\ to\ the\r\n\ \ console.\r\n
+comment7.params=
+comment7.target=void\ notifyUserBlackWon()
+comment7.text=\ Notifies\ the\ user\ that\ Black\ won.\r\n\ \ Alters\ the\ background\ color\ of\ the\ grid\ and\ prints\ a\ message\ to\ the\r\n\ \ console.\r\n
+numComments=8

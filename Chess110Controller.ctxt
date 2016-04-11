@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Chess110Controller()
+comment0.text=\ Constructs\ a\ Chess110Controller\ to\ control\ the\ progress\ of\ a\r\n\ \ Chess\ 110\ game.\ \ This\ should\ be\ followed\ up\ with\ a\ call\ to\r\n\ \ <code>setGUI</code>.\r\n
+comment1.params=gui
+comment1.target=void\ setGUI(Chess110GUI)
+comment1.text=\ Sets\ the\ graphical\ user\ interface\ that\ the\ controller\ will\r\n\ \ communicate\ with\ as\ the\ game\ progresses.\r\n
+comment2.params=
+comment2.target=void\ step()
+comment2.text=\ (non-Javadoc)\r\n\ @see\ edu.kzoo.grid.gui.GridAppController\#step()\r\n
+comment3.params=
+comment3.target=boolean\ hasReachedStoppingState()
+comment3.text=\ (non-Javadoc)\r\n\ @see\ edu.kzoo.grid.gui.GridAppController\#hasReachedStoppingState()\r\n
+comment4.params=
+comment4.target=void\ init()
+comment4.text=\ (non-Javadoc)\r\n\ @see\ edu.kzoo.grid.gui.GridAppController\#init()\r\n
+numComments=5

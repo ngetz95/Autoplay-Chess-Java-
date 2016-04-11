@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=team\ grid\ yo
+comment0.target=Pawn(java.awt.Color,\ edu.kzoo.grid.Grid,\ edu.kzoo.grid.Location)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Pawn\r\n
+comment1.params=
+comment1.target=java.util.ArrayList\ getPossibleLocations()
+comment1.text=\r\n\r\n
+numComments=2
